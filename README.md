@@ -1,4 +1,3 @@
-# Hi there 👋, my name is Nicolás Calero
 
 ## Who am I?
 
