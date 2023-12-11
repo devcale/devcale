@@ -1,7 +1,7 @@
 
 ## Who am I?
 
- I'm a Software Engineer who recently completed my Computer and Systems Engineering studies at Universidad de los Andes. I count with 4 months of internship experience in software engineering, I have developed security related functionalities for applications which are in use by more than 5M users.
+ I'm a Software Engineer who is currently studying a Software Engineering Master's Degree at Universidad de los Andes. I have developed security related functionalities for applications which are in use by more than 5M users.
 
 Some examples are:
 
