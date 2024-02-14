@@ -15,8 +15,8 @@ I get excited for opportunities that allow me to showcase my knowledge in both s
 
 ## More about me:
 
-- 🔭 I’m currently working on freelance and personal projects, mostly focused on practicing and gaining experience with new technologies. Currently developing a web based pokedex using Angular 8. 
-- 🌱 I’m currently learning API development using ASP .NET and Spring Boot. 
+- 🔭 I’m currently working at IT270, a technology company that seeks to meet the needs of companies in their value-added processes.
+- 🌱 I’m currently enhancing my clean code abilities, through API development, using ASP .NET 
 - 📫 How to reach me: You can find all my socials at [my web page](https://devcale.github.io/).
 - ⚡ Fun fact: I love learning about ancient civilizations 🏛 and space science 🌠.
 
